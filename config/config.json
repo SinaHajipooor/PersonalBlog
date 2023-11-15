@@ -1,0 +1,37 @@
+{
+  "site": {
+    "title": "Sina Hajipour",
+    "base_url": "/",
+    "favicon": "/images/developer.png"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "profile": {
+    "name": "Sina Hajipour",
+    "image": "/images/sina.jpg",
+    "designation": "Mobile & Web developer",
+    "bio": "As a dedicated mobile and front-end web developer, I leverage my passion for creating seamless user experiences and my expertise in crafting responsive and visually appealing interfaces. With a keen eye for detail and a commitment to staying abreast of industry trends, I strive to bring innovative solutions to every project I undertake"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "tag_manager_id": "",
+    "copyright": "Copyright © 2022 a theme by [statichunt](https://statichunt.com)"
+  },
+
+  "metadata": {
+    "meta_author": "Statichunt",
+    "meta_image": "",
+    "meta_description": ""
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template"
+  }
+}
