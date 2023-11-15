@@ -2,7 +2,7 @@
   "site": {
     "title": "Sina Hajipour",
     "base_url": "/",
-    "favicon": "/images/sina.jpg"
+    "favicon": ""
   },
 
   "settings": {
@@ -14,7 +14,7 @@
   "profile": {
     "name": "Sina Hajipour",
     "image": "/images/sina.jpg",
-    "designation": "Mobile & Web developer",
+    "designation": "Mobile  and  Web developer",
     "bio": "As a dedicated mobile and front-end web developer, I leverage my passion for creating seamless user experiences and my expertise in crafting responsive and visually appealing interfaces. With a keen eye for detail and a commitment to staying abreast of industry trends, I strive to bring innovative solutions to every project I undertake"
   },
 
