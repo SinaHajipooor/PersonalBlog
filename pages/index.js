@@ -44,7 +44,7 @@ const Home = ({ posts }) => {
             </div>
 
             {/* posts */}
-            <div className="pt-4">
+            {/* <div className="pt-4">
                 <div className="container">
                     <div className="row">
                         <div className="mx-auto lg:col-10">
@@ -66,7 +66,7 @@ const Home = ({ posts }) => {
                         />
                     </div>
                 </div>
-            </div>
+            </div> */}
         </Base>
     );
 };
