@@ -44,7 +44,7 @@ const Home = ({ posts }) => {
             </div>
 
             {/* posts */}
-            {/* <div className="pt-4">
+            <div className="pt-4">
                 <div className="container">
                     <div className="row">
                         <div className="mx-auto lg:col-10">
@@ -66,14 +66,14 @@ const Home = ({ posts }) => {
                         />
                     </div>
                 </div>
-            </div> */}
+            </div>
         </Base>
     );
 };
 
 export default Home;
 
-// for homepage data
+// // for homepage data
 export const getStaticProps = async () => {
     const posts = getSinglePage(`content/${blog_folder}`);
     return {
@@ -82,3 +82,4 @@ export const getStaticProps = async () => {
         },
     };
 };
+
