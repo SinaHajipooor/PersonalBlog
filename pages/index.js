@@ -26,7 +26,7 @@ const Home = ({ posts }) => {
                                 className="mx-auto rounded-full"
                                 src={image}
                                 width={220}
-                                height={150}
+                                height={210}
                                 priority={true}
                                 alt={name}
                             />
